@@ -11,15 +11,6 @@ The dashboard leverages SQL Server DirectQuery mode in Power BI to fetch live da
 
 This solution enabled the content team to identify high-performing categories, optimize content strategy, and improve user engagement.
 
-📊 Dashboard Preview (Screenshots)
-
-(Upload your screenshots inside an images folder and update paths below)
-
-![Traffic Overview](images/traffic_overview.png)
-![Category Engagement](images/category_engagement.png)
-![Download Analytics](images/download_analytics.png)
-![User Activity Trends](images/user_activity.png)
-
 🗄 Data Architecture
 🔹 Data Source
 
